@@ -1,0 +1,21 @@
+.piechart{
+    display: flex;
+}
+.pie {
+    width: 50%;
+
+}
+.bayidling{
+    width: 40%;
+}
+@media screen and (max-width: 480px) {
+    .piechart {
+      display: grid;
+    }
+    .pie{
+        width: 100%;
+    }
+    .bayidling{
+        width: 100%;
+    }
+  }

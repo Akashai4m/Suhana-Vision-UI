@@ -83,12 +83,11 @@ function Example() {
                 icon={<LocalShippingIcon color="white" size="22px" />}
                 title="Capacity Utilization"
                 description="suhana"
-                value="45"
+                value="49"
               />
             </Grid>
             </div>
             <br/>
-           
               <div style={{display:"flex" , flexWrap:"wrap",  justifyContent:"space-between"}}>
               <Grid item xs={12} md={6} lg={2} style={{marginBottom:"1vh"}}>
               <ControllerCard
